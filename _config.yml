@@ -1,7 +1,7 @@
 name: 'Scott Lukas '
 favicon: null
-layout_spectrum: 0.6300952527672052
-typography_spectrum: 0.636772365309298
+layout_spectrum: 0.73639
+typography_spectrum: 0.38877
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.7738756153266877
+  brandStrength: 0.6875
   lightness: 0.00804552505724132
   saturation: 0.1559539793524891
   rhythmicContrast: 0.5820192673709244
